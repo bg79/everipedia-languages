@@ -219,7 +219,7 @@ msgstr "적극적인 투표"
 #: public/messages/src/app/components/Header/index.json
 #: public/messages/src/app/containers/homepageContainer/featured.json
 msgid "Activity"
-msgstr "활동 국한 도달"
+msgstr "새글 "
 
 #. [CitationModal.AddEditURL.Add]
 #. defaultMessage is:
@@ -774,7 +774,7 @@ msgstr "URL 복사"
 #: public/messages/src/app/components/Header/index.json
 #: public/messages/src/app/containers/homepageContainer/featured.json
 msgid "Create Article"
-msgstr "글 만들기"
+msgstr "글쓰기"
 
 #. [CreatePage.CreateNewArticle]
 #. defaultMessage is:
