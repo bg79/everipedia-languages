@@ -38,49 +38,49 @@ msgstr "1 개월"
 #. 1 Message
 #: public/messages/src/app/components/Chat/messages.json
 msgid "1 Message"
-msgstr "메시지 1 개"
+msgstr "메시지 1개"
 
 #. [Chat.OneParticipant]
 #. defaultMessage is:
 #. 1 Participant
 #: public/messages/src/app/components/Chat/messages.json
 msgid "1 Participant"
-msgstr "참가자 1 명"
+msgstr "참가자 1명"
 
 #. [DashboardComponent.OneYear]
 #. defaultMessage is:
 #. 1 YEAR
 #: public/messages/src/app/containers/dashboard/dashboard_component.json
 msgid "1 YEAR"
-msgstr "일년"
+msgstr "1년"
 
 #. [DashboardComponent.ThreeMonths]
 #. defaultMessage is:
 #. 3 MONTHS
 #: public/messages/src/app/containers/dashboard/dashboard_component.json
 msgid "3 MONTHS"
-msgstr "3 개월"
+msgstr "3개월"
 
 #. [DashboardComponent.SixMonths]
 #. defaultMessage is:
 #. 6 MONTHS
 #: public/messages/src/app/containers/dashboard/dashboard_component.json
 msgid "6 MONTHS"
-msgstr "6 개월"
+msgstr "6개월"
 
 #. [DashboardComponent.SevenDays]
 #. defaultMessage is:
 #. 7 DAYS
 #: public/messages/src/app/containers/dashboard/dashboard_component.json
 msgid "7 DAYS"
-msgstr "7 일"
+msgstr "7일"
 
 #. [Homepage.UniverseOfKnowledge]
 #. defaultMessage is:
 #. A universe of knowledge.
 #: public/messages/src/app/containers/homepageContainer/homepage.container.json
 msgid "A universe of knowledge."
-msgstr "지식의 우주."
+msgstr "지식의 세계."
 
 #. [Leaderboard.AllTimeCap]
 #. defaultMessage is:
@@ -101,7 +101,7 @@ msgstr "API"
 #. ARTICLE HISTORY
 #: public/messages/src/app/components/SubmitVote/index.json
 msgid "ARTICLE HISTORY"
-msgstr "기사보기"
+msgstr "글 이력"
 
 #. [Stats.ArticleViews]
 #. defaultMessage is:
@@ -112,7 +112,7 @@ msgstr "기사보기"
 #: public/messages/src/app/containers/admin/admin.container.json
 #: public/messages/src/app/containers/homepageContainer/stats.json
 msgid "ARTICLE VIEWS"
-msgstr "기사보기"
+msgstr "글 보기"
 
 #. [Stats.Articles]
 #. defaultMessage is:
@@ -127,7 +127,7 @@ msgstr "기사보기"
 #: public/messages/src/app/containers/homepageContainer/stats.json
 #: public/messages/src/editor/components/mentions/suggestions.json
 msgid "ARTICLES"
-msgstr "조항"
+msgstr "글"
 
 #. [AsSeenIn.AsSeenIn]
 #. defaultMessage is:
