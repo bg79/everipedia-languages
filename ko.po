@@ -17,7 +17,7 @@ msgstr ""
 #. + Create an Account / Login
 #: public/messages/src/app/components/Header/Mobile-Hamburger.json
 msgid "+ Create an Account / Login"
-msgstr "+ 계정 만들기 / 로그인"
+msgstr "+ 계정 만들기 / 로그인11"
 
 #. [Chat.NoMessages]
 #. defaultMessage is:
