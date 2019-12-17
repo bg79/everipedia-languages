@@ -17,7 +17,7 @@ msgstr ""
 #. 0 Messages
 #: public/messages/src/app/components/Chat/messages.json
 msgid "0 Messages"
-msgstr "메시지1111"
+msgstr "메시지22"
 
 #. [Chat.NoParticipants]
 #. defaultMessage is:
