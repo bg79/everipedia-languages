@@ -4366,8 +4366,8 @@ msgid ""
 "offers a space for you to dive into anything you find interesting, connect "
 "with people who share your interests, and contribute your own perspective."
 msgstr ""
-"모든 것을 다루는 백과사전으로서, 누구나가 참여하여 글을 생성하고 편집할 수 있"
-"다."
+"모든 것을 다루는 백과사전으로서, 누구나가 참여하여 글을 생성하고 편집할 수 있다."
+""
 
 #. [InfoboxModal.TheInfoboxIsDesignedForConcise]
 #. defaultMessage is:
@@ -5033,7 +5033,7 @@ msgstr "IQ 토큰이란?"
 #. Wiki Encyclopedia of Everything - Everipedia
 #: translations/.messages/src/shared/components/DynamicAppHead/index.json
 msgid "Wiki Encyclopedia of Everything - Everipedia"
-msgstr "모두의 온라인 위키 백과사전 - 에브리피디아"
+msgstr "에브리피 - 모두의 온라인 위키 백과사전"
 
 #. [AccountNameHeader.Worth]
 #. defaultMessage is:
